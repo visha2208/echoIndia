@@ -1,0 +1,12 @@
+.container {
+     margin: 40px auto;
+     max-width: 900px;
+}
+.modalHeader {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+.closeItem {
+     color: #000;
+}

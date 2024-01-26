@@ -1,0 +1,39 @@
+[
+     {
+       "Name": "Alice",
+       "Gender": "Female",
+       "Age": 25,
+       "Class": "Senior"
+     },
+     {
+       "Name": "Bob",
+       "Gender": "Male",
+       "Age": 22,
+       "Class": "Junior"
+     },
+     {
+       "Name": "Charlie",
+       "Gender": "Male",
+       "Age": 23,
+       "Class": "Sophomore"
+     },
+     {
+       "Name": "Diana",
+       "Gender": "Female",
+       "Age": 24,
+       "Class": "Freshman"
+     },
+     {
+       "Name": "Eva",
+       "Gender": "Female",
+       "Age": 21,
+       "Class": "Senior"
+     },
+     {
+       "Name": "Frank",
+       "Gender": "Male",
+       "Age": 22,
+       "Class": "Junior"
+     }
+   ]
+   

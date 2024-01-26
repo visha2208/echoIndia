@@ -1,0 +1,19 @@
+.root {
+     position: relative;
+}
+.header {
+     display: flex;
+     justify-content: space-between;
+     padding: 10px;
+     border-bottom: 1px solid #ccc;
+     align-items: center;
+}
+.logo img {
+     max-width: 100px;
+}
+
+.navigation ul {
+     padding: 0;
+     list-style-type: none;
+     margin: 0;
+}
